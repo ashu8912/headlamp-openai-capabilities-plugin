@@ -1,1 +1,1 @@
-# hackathon-openai-capabilities
+# headlamp-openai-capabilities-plugin
