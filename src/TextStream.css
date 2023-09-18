@@ -6,17 +6,9 @@
     border-radius: 10px;
     padding: 10px;
     margin: 10px;
-    height: 600px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
   }
   
-  /* Style individual chat messages */
-  .text-stream-message {
-     font-size: 16px;
-     display: flex;
-     font-weight: 700;
-   /* Ensure messages take up the entire width available */
-  }  
   
   /* Style the text color to match the assistant's */
   .text-stream-message.user {

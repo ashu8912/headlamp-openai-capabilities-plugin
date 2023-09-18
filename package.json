@@ -33,6 +33,10 @@
     "@kinvolk/headlamp-plugin": "^0.6.1"
   },
   "dependencies": {
-    "@azure/openai": "^1.0.0-beta.5"
+    "@azure/openai": "^1.0.0-beta.5",
+    "@monaco-editor/react": "^4.5.2",
+    "js-yaml": "^4.1.0",
+    "notistack": "^3.0.1",
+    "react-markdown": "^8.0.7"
   }
 }
